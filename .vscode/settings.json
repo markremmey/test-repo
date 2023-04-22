@@ -1,0 +1,6 @@
+{
+    "editor.tabCompletion": "on",
+    "diffEditor.codeLens": true,
+    "appService.defaultWebAppToDeploy": "/subscriptions/253f778b-553f-4871-b143-123f314c45c1/resourceGroups/rg-cummins-pipeline/providers/Microsoft.Web/sites/remmey-test",
+    "appService.deploySubpath": "."
+}
